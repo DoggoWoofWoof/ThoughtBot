@@ -1,0 +1,1 @@
+This contains the code and the html template for the api, to use it you need to download the thoughtbot folder and then enter your openai api key in the code.py file and then run it in your ide, here I used vscode but you can run this anywhere and it will give you a localhost link, visit that and type your thoughts
